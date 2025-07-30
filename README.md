@@ -17,13 +17,23 @@ React Avanzado Julio-Agosto 2025
 
 npx create-expo-app@latest
 
-## Expo (para correr los proyectos)
+## Expo (para correr los proyectos
+
 https://expo.dev/
 
 ## Crear un proyecto react nuevo para web
 
-npm create vite@latest nombre-de-tu-app -- --template react
+Crear un proyecto web usando *react js*
 
-ejecutar npm install para que se cree la carpeta node_modules
+Abrir la terminal, navegar hasta el directorio donde tendremos nuestros proyectos react y escribir el siguiente comando, reemplazando *nombre-de-tu-app* por el nombre que desees.
 
-ejecutar npm run dev para correr el proyecto
+`npm create vite@latest nombre-de-tu-app -- --template react`
+
+ejecutar `npm install` para que se cree la carpeta node_modules
+
+ejecutar `npm run dev` para correr el proyecto
+
+
+# Sesiones
+
+[Sesión 1 - Configuración del entorno](https://youtu.be/6a_cwL3_UBs)
