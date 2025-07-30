@@ -36,4 +36,6 @@ ejecutar `npm run dev` para correr el proyecto
 
 # Sesiones
 
+[Lista de videos](https://www.youtube.com/playlist?list=PLXDgesVAFKPZ--jE7yeFBtlgyANHx70Ep)
+
 [Sesión 1 - Configuración del entorno](https://youtu.be/6a_cwL3_UBs)
