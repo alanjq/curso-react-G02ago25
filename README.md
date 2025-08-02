@@ -33,9 +33,14 @@ ejecutar `npm install` para que se cree la carpeta node_modules
 
 ejecutar `npm run dev` para correr el proyecto
 
+## Buscar paquetes en el directorio de NPM
+
+https://www.npmjs.com/
 
 # Sesiones
 
 [Lista de videos](https://www.youtube.com/playlist?list=PLXDgesVAFKPZ--jE7yeFBtlgyANHx70Ep)
 
 [Sesión 1 - Configuración del entorno](https://youtu.be/6a_cwL3_UBs)
+
+[Sesión 2 - Primeros pasos con React Native ](https://youtu.be/HbohNO1LyFM)
