@@ -43,4 +43,6 @@ https://www.npmjs.com/
 
 [Sesión 1 - Configuración del entorno](https://youtu.be/6a_cwL3_UBs)
 
-[Sesión 2 - Primeros pasos con React Native ](https://youtu.be/HbohNO1LyFM)
+[Sesión 2 - Primeros pasos con React Native](https://youtu.be/HbohNO1LyFM)
+
+[Sesión 3 - Componentes Core y Nativos](https://youtu.be/241HYmackGA)
