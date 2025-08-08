@@ -46,3 +46,5 @@ https://www.npmjs.com/
 [Sesión 2 - Primeros pasos con React Native](https://youtu.be/HbohNO1LyFM)
 
 [Sesión 3 - Componentes Core y Nativos](https://youtu.be/241HYmackGA)
+
+[Sesión 4 - Maquetando nuestra App](https://youtu.be/jXkLPJ2Ff84)
