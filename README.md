@@ -50,3 +50,9 @@ https://www.npmjs.com/
 [Sesión 4 - Maquetando nuestra App](https://youtu.be/jXkLPJ2Ff84)
 
 [Sesión 5 - Eventos, estado y contexto](https://youtu.be/1CfG14_CnDg)
+
+# Iconos
+
+npm i @flaticon/flaticon-uicons
+
+https://www.flaticon.com/free-icon-font/
