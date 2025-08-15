@@ -51,6 +51,8 @@ https://www.npmjs.com/
 
 [Sesión 5 - Eventos, estado y contexto](https://youtu.be/1CfG14_CnDg)
 
+[Sesión 6 - Consumiendo servicios REST](https://youtu.be/Yv6Ol0VURG8)
+
 # Iconos
 
 npm i @flaticon/flaticon-uicons
